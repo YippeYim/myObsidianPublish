@@ -1,5 +1,7 @@
 ---
 share: "True"
+tags:
+  - note
 ---
 # promt
 
